@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="laranja_claro">#FAEACE</color>
+    <color name="laranja_escuro">#DF6224</color>
+    <color name="azul_escuro">#183757</color>
+    <color name="verde_claro">#7AD6C6</color>
+    <color name="verde_medio">#00B192</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
